@@ -15,7 +15,7 @@
 
 
 (define ps (make-pstream))
-(define img .)
+(define img (bitmap "DrRatchet.png"))
 (define bgGif
   (list
    (bitmap "sn1.png") 
